@@ -105,10 +105,12 @@ Assistente jurídico com IA para Angola, cobrindo **Direito do Trabalho (Lei 7/1
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=600&color=22D3EE&center=true&vCenter=true&width=520&lines=%24+snake+--eat+contribui%C3%A7%C3%B5es;Cada+commit+conta+%F0%9F%90%8D;A+compilar+o+futuro+de+%C3%81frica..." alt="Terminal" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DumildeCode/DumildeCode/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DumildeCode/DumildeCode/output/github-snake.svg" />
-  <img alt="Cobra a comer as contribuições" src="https://raw.githubusercontent.com/DumildeCode/DumildeCode/output/github-snake-dark.svg" />
+  <img alt="Cobra a comer as contribuições" width="100%" src="https://raw.githubusercontent.com/DumildeCode/DumildeCode/output/github-snake-dark.svg" />
 </picture>
 
 </div>
